@@ -22,8 +22,9 @@ public class soma extends JFrame {
 	private JTextField valor2;
 
 	/**
-	 * Launch the application.
-	 */
+	 * Davi Augusto Boff @author 
+	 * 19/10/2022 @data
+	 **/
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
