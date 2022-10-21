@@ -21,8 +21,9 @@ public class triangulo extends JFrame {
 	private JTextField Lado3;
 	private JTextField Resultado;
 
-	/**
-	 * Launch the application.
+	/*
+	 * Davi Augusto Boff @author 
+	 * 20/10/2022 @data	
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {

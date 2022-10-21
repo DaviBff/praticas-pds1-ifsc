@@ -20,8 +20,9 @@ public class calc extends JFrame {
 	private JTextField N2;
 	private JTextField N1;
 
-	/**
-	 * Launch the application.
+	/*
+	 * Davi Augusto Boff @author 
+	 * 20/10/2022 @data
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
