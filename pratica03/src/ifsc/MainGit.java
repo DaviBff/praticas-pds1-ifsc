@@ -3,13 +3,10 @@ package ifsc;
 public class MainGit {
 
 	public static void main(String[] args) {
-
-		
 		
 		/**
 		 * Pega um vetor e multiplicar todos os elementos desse vetor e retorna um novo
 		 * vetor.
-		 * 
 		 * @param vetor
 		 * @return
 		 */
@@ -22,5 +19,5 @@ public class MainGit {
 
 			return novoVetor;
 		}
-		}
 	}
+}
